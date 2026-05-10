@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 10
+names: ['-', '- annotate- and create datasets', '- collaborate with your team on computer vision projects', '- collect - organize images', '- export- train- and deploy computer vision models', '- understand and search unstructured image data', '- use active learning to improve your dataset over time', 'Construction Site Safety - v28 YOLOv5s', 'Roboflow is an end-to-end computer vision platform that helps you', 'This dataset was exported via roboflow.com on February 1- 2023 at 4-08 PM GMT']
+
+roboflow:
+  workspace: 007-kd2zw
+  project: construction-site-safety-rmep1
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/007-kd2zw/construction-site-safety-rmep1/dataset/3
